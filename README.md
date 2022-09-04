@@ -1,0 +1,2 @@
+# Data-Science-in-Agriculture
+pre-preparing and making statistical analysis of Economic accounts for agriculture and to creating interactive maps showing the dynamics of the prices.make predictions based on linear regression and two frameworks for building neural networks, as well as obtain statistics and compare results.We will learn to build our own photo masks based on ready-made masks and display them on the screen.
